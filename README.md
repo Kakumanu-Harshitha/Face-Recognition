@@ -15,7 +15,6 @@ Build a model
 Prediction of image
 
 # Applications
-
 **Security and Surveillance**: Face recognition is widely used in security systems to identify individuals and monitor real-time footage. It helps detect known criminals, track suspects, and maintain public safety.
 
 **Mobile Device Security and Authentication**: Face recognition is now a key feature in mobile devices for authentication, offering a secure and convenient way for users to unlock phones, authenticate transactions, and access sensitive information.
