@@ -24,7 +24,7 @@ Prediction of image
 I used a compiler CPU provided in google colab while running this project.
 # Prediction:
 This image acheived a minimum distance of 6.40 which is euclidean distance .
-![Virat Kohli](virat kohli 3.jpg)
+
 # Requirements
 Numpy
 
